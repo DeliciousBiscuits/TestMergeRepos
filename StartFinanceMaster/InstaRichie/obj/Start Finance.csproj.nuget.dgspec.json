@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\TestMergeRepos\\StartFinanceMaster\\InstaRichie\\Start Finance.csproj": {}
   },
   "projects": {
@@ -12,6 +13,19 @@
         "projectPath": "C:\\TestMergeRepos\\StartFinanceMaster\\InstaRichie\\Start Finance.csproj",
         "packagesPath": "C:\\Users\\marti\\.nuget\\packages\\",
         "outputPath": "C:\\TestMergeRepos\\StartFinanceMaster\\InstaRichie\\obj\\",
+=======
+    "C:\\TestMergeRepos2\\StartFinanceMaster\\InstaRichie\\Start Finance.csproj": {}
+  },
+  "projects": {
+    "C:\\TestMergeRepos2\\StartFinanceMaster\\InstaRichie\\Start Finance.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\TestMergeRepos2\\StartFinanceMaster\\InstaRichie\\Start Finance.csproj",
+        "projectName": "Start Finance",
+        "projectPath": "C:\\TestMergeRepos2\\StartFinanceMaster\\InstaRichie\\Start Finance.csproj",
+        "packagesPath": "C:\\Users\\marti\\.nuget\\packages\\",
+        "outputPath": "C:\\TestMergeRepos2\\StartFinanceMaster\\InstaRichie\\obj\\",
+>>>>>>> remotes/origin/feat_mae
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [

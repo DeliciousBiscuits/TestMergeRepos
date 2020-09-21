@@ -16,7 +16,11 @@ Views\DashBoardPage.xbf
 Views\DebtPage.xbf
 Views\DetailPage.xbf
 Views\MainPage.xbf
+<<<<<<< HEAD
 Views\Page1.xbf
+=======
+Views\Page2.xbf
+>>>>>>> remotes/origin/feat_mae
 Views\SettingsPage.xbf
 Views\Shell.xbf
 Views\Splash.xbf

@@ -329,7 +329,11 @@
     <RootType FullName="Windows.UI.Xaml.Controls.ComboBoxItem">
       <RootProperty Name="Content" />
     </RootType>
+<<<<<<< HEAD
     <RootType FullName="StartFinance.Views.Page1" />
+=======
+    <RootType FullName="StartFinance.Views.Page2" />
+>>>>>>> remotes/origin/feat_mae
     <RootType FullName="StartFinance.ViewModels.SettingsPageViewModel" />
     <RootType FullName="Windows.UI.Xaml.Controls.Border">
       <RootProperty Name="HorizontalAlignment" />

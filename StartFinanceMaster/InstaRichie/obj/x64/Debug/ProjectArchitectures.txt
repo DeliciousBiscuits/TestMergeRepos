@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 C:\TestMergeRepos\StartFinanceMaster\InstaRichie\Start Finance.csproj;x64
+=======
+C:\TestMergeRepos2\StartFinanceMaster\InstaRichie\Start Finance.csproj;x64
+>>>>>>> remotes/origin/feat_mae
