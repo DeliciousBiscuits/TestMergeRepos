@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
+  "dgSpecHash": "HYdBu0G+tc5lr6TQ2w51V6npS/QKGSWTZ0lS0HVOqWka4lPSssWwhRcifcpBLvKJLylX+wexsDTphDnRezPIJQ==",
+  "success": true,
+  "projectFilePath": "C:\\TestMergeRepos\\StartFinanceMaster\\InstaRichie\\Start Finance.csproj",
+=======
   "dgSpecHash": "Sm63iP39G2J0gg1iAzyU7WyjuSh3UlrZCuTgWbV5Q/PuzmaJis6rM0HVynjUiZc7+WPK5ZQjBw+hOnR+wQmD9Q==",
   "success": true,
   "projectFilePath": "C:\\TestMergeRepos2\\StartFinanceMaster\\InstaRichie\\Start Finance.csproj",
+>>>>>>> remotes/origin/feat_mae
   "expectedPackageFiles": [
     "C:\\Users\\marti\\.nuget\\packages\\crosspiecharts.uwp\\1.0.2\\crosspiecharts.uwp.1.0.2.nupkg.sha512",
     "C:\\Users\\marti\\.nuget\\packages\\microsoft.csharp\\4.0.0\\microsoft.csharp.4.0.0.nupkg.sha512",

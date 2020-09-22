@@ -10,22 +10,37 @@
     <PackageArchitecture>x64</PackageArchitecture>
     <PackageIdentityName>55315fcf-abdd-4acd-aa68-afdab1b5cfbf</PackageIdentityName>
     <PackageIdentityPublisher>CN=Kwok Lau</PackageIdentityPublisher>
+<<<<<<< HEAD
+    <IntermediateOutputPath>C:\TestMergeRepos\StartFinanceMaster\InstaRichie\obj\x64\Debug\</IntermediateOutputPath>
+=======
     <IntermediateOutputPath>C:\TestMergeRepos2\StartFinanceMaster\InstaRichie\obj\x64\Debug\</IntermediateOutputPath>
+>>>>>>> remotes/origin/feat_mae
     <RemoteDeploymentType></RemoteDeploymentType>
     <PackageRegistrationPath></PackageRegistrationPath>
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
+<<<<<<< HEAD
+    <LayoutDir>C:\TestMergeRepos\StartFinanceMaster\InstaRichie\bin\x64\Debug\AppX</LayoutDir>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\TestMergeRepos\StartFinanceMaster\InstaRichie\bin\x64\Debug\Core\AppxManifest.xml">
+=======
     <LayoutDir>C:\TestMergeRepos2\StartFinanceMaster\InstaRichie\bin\x64\Debug\AppX</LayoutDir>
   </PropertyGroup>
   <ItemGroup>
     <AppXManifest Include="C:\TestMergeRepos2\StartFinanceMaster\InstaRichie\bin\x64\Debug\Core\AppxManifest.xml">
+>>>>>>> remotes/origin/feat_mae
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
+<<<<<<< HEAD
+    <AppxPackagedFile Include="C:\TestMergeRepos\StartFinanceMaster\InstaRichie\bin\x64\Debug\StartFinance.exe">
+=======
     <AppxPackagedFile Include="C:\TestMergeRepos2\StartFinanceMaster\InstaRichie\bin\x64\Debug\StartFinance.exe">
+>>>>>>> remotes/origin/feat_mae
       <PackagePath>entrypoint\StartFinance.exe</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\marti\.nuget\packages\crosspiecharts.uwp\1.0.2\lib\uap\CrossPieCharts.ClassLibrary.dll">
@@ -370,6 +385,90 @@
     <AppxPackagedFile Include="C:\Users\marti\.nuget\packages\template10\1.1.11\lib\uap10.0\Template10Library\Properties\Template10Library.rd.xml">
       <PackagePath>Template10Library\Properties\Template10Library.rd.xml</PackagePath>
     </AppxPackagedFile>
+<<<<<<< HEAD
+    <AppxPackagedFile Include="C:\TestMergeRepos\StartFinanceMaster\InstaRichie\Help.htm">
+      <PackagePath>Help.htm</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\TestMergeRepos\StartFinanceMaster\InstaRichie\Properties\Default.rd.xml">
+      <PackagePath>Properties\Default.rd.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\TestMergeRepos\StartFinanceMaster\InstaRichie\Assets\LockScreenLogo.scale-200.png">
+      <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\TestMergeRepos\StartFinanceMaster\InstaRichie\Assets\SplashScreen.scale-200.png">
+      <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\TestMergeRepos\StartFinanceMaster\InstaRichie\Assets\Square150x150Logo.scale-200.png">
+      <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\TestMergeRepos\StartFinanceMaster\InstaRichie\Assets\Square44x44Logo.scale-200.png">
+      <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\TestMergeRepos\StartFinanceMaster\InstaRichie\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\TestMergeRepos\StartFinanceMaster\InstaRichie\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\TestMergeRepos\StartFinanceMaster\InstaRichie\Assets\Wide310x150Logo.scale-200.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\TestMergeRepos\StartFinanceMaster\InstaRichie\bin\x64\Debug\StartFinance.xr.xml">
+      <PackagePath>StartFinance.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\TestMergeRepos\StartFinanceMaster\InstaRichie\bin\x64\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\TestMergeRepos\StartFinanceMaster\InstaRichie\bin\x64\Debug\Styles\Custom.xbf">
+      <PackagePath>Styles\Custom.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\TestMergeRepos\StartFinanceMaster\InstaRichie\bin\x64\Debug\Views\AccountsPage.xbf">
+      <PackagePath>Views\AccountsPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\TestMergeRepos\StartFinanceMaster\InstaRichie\bin\x64\Debug\Views\AssetsPage.xbf">
+      <PackagePath>Views\AssetsPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\TestMergeRepos\StartFinanceMaster\InstaRichie\bin\x64\Debug\Views\Busy.xbf">
+      <PackagePath>Views\Busy.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\TestMergeRepos\StartFinanceMaster\InstaRichie\bin\x64\Debug\Views\DashBoardPage.xbf">
+      <PackagePath>Views\DashBoardPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\TestMergeRepos\StartFinanceMaster\InstaRichie\bin\x64\Debug\Views\DebtPage.xbf">
+      <PackagePath>Views\DebtPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\TestMergeRepos\StartFinanceMaster\InstaRichie\bin\x64\Debug\Views\DetailPage.xbf">
+      <PackagePath>Views\DetailPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\TestMergeRepos\StartFinanceMaster\InstaRichie\bin\x64\Debug\Views\MainPage.xbf">
+      <PackagePath>Views\MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\TestMergeRepos\StartFinanceMaster\InstaRichie\bin\x64\Debug\Views\Page1.xbf">
+      <PackagePath>Views\Page1.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\TestMergeRepos\StartFinanceMaster\InstaRichie\bin\x64\Debug\Views\SettingsPage.xbf">
+      <PackagePath>Views\SettingsPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\TestMergeRepos\StartFinanceMaster\InstaRichie\bin\x64\Debug\Views\Shell.xbf">
+      <PackagePath>Views\Shell.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\TestMergeRepos\StartFinanceMaster\InstaRichie\bin\x64\Debug\Views\Splash.xbf">
+      <PackagePath>Views\Splash.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\TestMergeRepos\StartFinanceMaster\InstaRichie\bin\x64\Debug\Views\TransactionListPage.xbf">
+      <PackagePath>Views\TransactionListPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\TestMergeRepos\StartFinanceMaster\InstaRichie\bin\x64\Debug\Views\TransactionPage.xbf">
+      <PackagePath>Views\TransactionPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\TestMergeRepos\StartFinanceMaster\InstaRichie\bin\x64\Debug\Views\WishListPage.xbf">
+=======
     <AppxPackagedFile Include="C:\TestMergeRepos2\StartFinanceMaster\InstaRichie\Help.htm">
       <PackagePath>Help.htm</PackagePath>
     </AppxPackagedFile>
@@ -452,6 +551,7 @@
       <PackagePath>Views\TransactionPage.xbf</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\TestMergeRepos2\StartFinanceMaster\InstaRichie\bin\x64\Debug\Views\WishListPage.xbf">
+>>>>>>> remotes/origin/feat_mae
       <PackagePath>Views\WishListPage.xbf</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.UniversalCRT.Debug\10.0.18362.0\\redist\Debug\X64\ucrtbased.dll">
@@ -460,10 +560,17 @@
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.18362.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
     </AppxPackagedFile>
+<<<<<<< HEAD
+    <AppxPackagedFile Include="C:\TestMergeRepos\StartFinanceMaster\InstaRichie\bin\x64\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\TestMergeRepos\StartFinanceMaster\InstaRichie\bin\x64\Debug\Core\StartFinance.exe">
+=======
     <AppxPackagedFile Include="C:\TestMergeRepos2\StartFinanceMaster\InstaRichie\bin\x64\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\TestMergeRepos2\StartFinanceMaster\InstaRichie\bin\x64\Debug\Core\StartFinance.exe">
+>>>>>>> remotes/origin/feat_mae
       <PackagePath>StartFinance.exe</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>
