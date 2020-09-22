@@ -30,17 +30,17 @@ namespace StartFinance.Views
 
         private void addButton_Click(object sender, RoutedEventArgs e)
         {
-
+          // fjslkdjalfj    
         }
 
         private void editButton_Click(object sender, RoutedEventArgs e)
         {
-
+            // ifjaojsoidjosa
         }
 
         private void deleteButton_Click(object sender, RoutedEventArgs e)
         {
-
+            //afjldsajlfdjl
         }
 
         private void saveButton_Click(object sender, RoutedEventArgs e)
